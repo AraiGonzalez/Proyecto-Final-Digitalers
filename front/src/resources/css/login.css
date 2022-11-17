@@ -1,0 +1,33 @@
+.columna{
+    width: 50%;
+    margin: 250px auto;
+    box-sizing: border-box;
+    padding: 0.6em;
+  }
+
+   .label {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+ }
+   .input {
+    background-color: #ddd;
+    border-radius: 5px;
+    border: 1px solid #999;
+    padding: 0.4em 0.6em;
+    font-size: 0.8em;
+    width: 50%;
+    margin: auto;
+
+  }
+  .botones{
+text-align: center; 
+width: 100%;
+  }
+  .boton{
+    margin: 10px;
+text-align: center;  }
+
+
+
+ 
